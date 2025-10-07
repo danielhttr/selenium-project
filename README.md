@@ -20,9 +20,3 @@ Uso do Page Object Model (POM) para desacoplar lógica de teste e mapeamento de 
 Aplicação de fixtures do Pytest para controle de setup e teardown.
 Implementação de esperas explícitas e interações avançadas (duplo clique, teclas, etc.).
 Escrita de assertivas legíveis e descritivas para validação de cenários.
-
-🧠 Aprendizados e Evolução
-Etapa	   | Foco Principal	    | Descrição
-tests_01 | Primeiros contatos | Automação direta com Selenium, sem organização modular.
-tests_02 | Estruturação       | Introdução do Pytest, uso de fixtures e separação parcial de responsabilidades.
-tests_03 | Profissionalização	| Implementação do padrão Page Object Model, reutilização de código e testes mais limpos.
